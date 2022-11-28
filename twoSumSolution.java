@@ -22,5 +22,4 @@ class twoSumSolution{
 
         return indiceArray;
     }
-    
 }
